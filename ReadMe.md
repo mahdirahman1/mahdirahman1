@@ -1,8 +1,7 @@
 # 💫 About Me:
 👋  Hi, I'm Mahdi<br>
 💻  Software Developer with 2 years of industry experience<br>
-📚  Exploring backend technologies such as Java Spring and Fast API<br>
-💡  Currently working on a side project to detect motion on my ring doorbell, record a video and save to the cloud
+💡  Currently building projects with generative AI and LLMS!
 
 
 ## 🌐 Socials:
